@@ -1,0 +1,18 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment (if created)
+venv/
+.env
+
+# Jupyter notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
